@@ -27,15 +27,15 @@
 }
 
 .cat1 {
-    background-color: orange;
+    background-image: linear-gradient(to left, rgb(241, 177, 56) 0%, rgb(102, 69, 7) 100%) ;
 }
 
 .cat2 {
-    background-color: orchid;
+    background-image: linear-gradient(to left, rgb(233, 81, 228) 0%, rgb(112, 8, 109) 100%) ;
 }
 
 .cat3 {
-    background-color: blue;
+    background-image: linear-gradient(to left, rgb(73, 73, 238) 0%, rgb(5, 5, 94) 100%) ;
 }
 
 .categories h1 {
